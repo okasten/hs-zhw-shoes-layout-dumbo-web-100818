@@ -24,4 +24,12 @@
 
 /* Posititoning Classes */
 
+.grass {
+  display: in-line;
+  width: 60%;
+}
 
+.archive {
+  display: in-line block;
+  width: 20%;
+}
